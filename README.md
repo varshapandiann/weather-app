@@ -1,7 +1,7 @@
 # Weather-App
 This weather application makes use of a weather API to retrieve and display real-time weather data for cities worldwide. Users can search for any location, and the app presents the current temperature, weather conditions (e.g., clear skies, rain), humidity level, and wind speed.
 
-Access the website at: 
+Access the website at: https://varshapandiann.github.io/weather-app/
 
 ![weather-details](screenshot.png)
 
